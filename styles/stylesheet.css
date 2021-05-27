@@ -1,0 +1,161 @@
+*{
+  box-sizing: border-box;
+  font-family: arial;
+}
+
+header{
+  background-color: rgb(67, 167, 195);
+  padding: 2rem;
+}
+
+p{
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
+header p{
+  color: white;
+  font-family: arial;
+  font-size: 1.75rem;
+}
+
+h1{
+  color: white;
+  font-size: 3.5rem;
+  font-family: arial;
+}
+
+.header, h1{
+  text-indent: 8rem;
+}
+
+ul{
+  list-style-type: none;
+  background-color: rgb(229, 229, 229);
+  padding: 1.5rem;
+  margin-top:0rem;
+}
+
+.navbar{
+  display: inline;
+  font-weight: bolder;
+}
+
+.navbar a{
+  text-decoration: none;
+  color: black;
+  padding: 0.2rem;
+  margin-right: 0.5rem;
+  font-weight: bolder;
+  font-family: arial;
+}
+
+.about{
+  padding-left: 9rem;
+}
+
+.quote{
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  color: rgb(67, 167, 195);
+  font-family: arial;
+  font-size: 1.1rem;
+}
+
+.sig{
+  padding-bottom: 3rem;
+  font-size: 1.1rem;
+  font-family: arial;
+  color: rgb(67, 167, 195);
+}
+
+aside{
+  float: right;
+  width: 30rem;
+  margin-right: 8rem;
+  padding-left: 5rem;
+}
+
+img{
+  width: 15rem;
+  height: 12rem;
+}
+
+.cats{
+  width: 18rem;
+}
+
+.sec{
+  margin-left: 10rem;
+  text-align: left;
+  width: 35rem;
+}
+
+.par, .quote, .sig{
+  width: 45rem;
+}
+
+.secheader{
+  color: rgb(67, 167, 195);
+  font-weight: bolder;
+  font-family: arial;
+  font-size: 1.1rem;
+}
+
+footer{
+  clear: right;
+  text-align: center;
+  background-color: rgb(54,54,54);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+footer p{
+  color: white;
+  width: 28rem;
+  margin-left: 29rem;
+}
+
+h6{
+  color: white;
+  font-size: 0.9rem;
+}
+
+.catlogo{
+  width: 17rem;
+  height: 4.5rem;
+}
+
+.navbar1{
+  display: inline;
+  color: white;
+  margin-right: 0.25rem;
+}
+
+.navbar1 a{
+  color: white;
+  text-decoration: none;
+  font-size: 0.75rem;
+}
+
+.footer{
+  background-color: rgb(54,54,54);
+}
+
+.cat{
+  text-align: center;
+}
+
+.cat h3{
+  font-size: 4rem;
+}
+
+.cat p{
+  font-size: 1rem;
+  color: rgb(67, 167, 195);
+  margin: 0;
+}
+
+.kitty-footer{
+  margin-top: 10rem;
+}
